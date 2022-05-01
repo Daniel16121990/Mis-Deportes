@@ -21,3 +21,8 @@ body
     font-size: 20 px;
     text-align: center;
 }
+
+#post
+{
+    background-color: rgb(81, 255, 0);
+}
