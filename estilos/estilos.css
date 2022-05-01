@@ -14,6 +14,8 @@ body
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
+    background-color: rgb(33, 124, 63) ;
+    color: rgb(220, 236, 224);
 }
 
 #container h1
