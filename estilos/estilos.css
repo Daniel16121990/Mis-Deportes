@@ -23,3 +23,7 @@ body
     font-size: 20 px;
     text-align: center;
 }
+#container p
+{
+    text-align: center;
+}
