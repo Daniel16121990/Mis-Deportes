@@ -14,6 +14,8 @@ body
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
+    background-color: rgb(33, 124, 63) ;
+    color: rgb(220, 236, 224);
 }
 
 #container h1
@@ -21,8 +23,16 @@ body
     font-size: 20 px;
     text-align: center;
 }
-
-#post
+#container p
 {
-    background-color: rgb(81, 255, 0);
+    text-align: center;
+}
+#cabecera
+{
+    background-color:rgb(47, 49, 46);
+    margin: 10;
+    padding: 25px;;
+    box-shadow: 0px 2px 20px 0px  rgba(0, 0, 0, 0, 5);
+    font-weight: bold;
+    text-align: center;
 }
